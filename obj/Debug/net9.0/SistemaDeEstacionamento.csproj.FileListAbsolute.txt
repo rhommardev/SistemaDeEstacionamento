@@ -1,0 +1,4 @@
+C:\Users\Public\projetosCsharp\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\projetosCsharp\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Public\projetosCsharp\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.AssemblyInfo.cs
+C:\Users\Public\projetosCsharp\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.csproj.CoreCompileInputs.cache
