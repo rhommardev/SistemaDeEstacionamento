@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeEstacionamento", "SistemaDeEstacionamento.csproj", "{D60ED97E-F113-50BD-BB43-5FF03E09EE02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstacionamento", "ProjetoEstacionamento\ProjetoEstacionamento.csproj", "{EB2C59EC-C2DD-F232-B701-14B98FF51895}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D60ED97E-F113-50BD-BB43-5FF03E09EE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D60ED97E-F113-50BD-BB43-5FF03E09EE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D60ED97E-F113-50BD-BB43-5FF03E09EE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D60ED97E-F113-50BD-BB43-5FF03E09EE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2C59EC-C2DD-F232-B701-14B98FF51895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2C59EC-C2DD-F232-B701-14B98FF51895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2C59EC-C2DD-F232-B701-14B98FF51895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2C59EC-C2DD-F232-B701-14B98FF51895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F7BE062A-A644-4014-83ED-E6C0B14C3EBE}
+		SolutionGuid = {48E023B0-42FC-4740-B4B5-9FE1DCD5FC70}
 	EndGlobalSection
 EndGlobal

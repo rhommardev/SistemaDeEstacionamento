@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SistemaDeEstacionamento")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoEstacionamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b7522652a19edd4cbaba475d0a848435c9133f4")]
-[assembly: System.Reflection.AssemblyProductAttribute("SistemaDeEstacionamento")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SistemaDeEstacionamento")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad76b36772750810e2e091f82250c16446677972")]
+[assembly: System.Reflection.AssemblyProductAttribute("ProjetoEstacionamento")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ProjetoEstacionamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
